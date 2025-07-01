@@ -10,5 +10,5 @@ module "team_iam" {
   dev_users      = var.dev_users
   qa_users       = var.qa_users
   devops_users   = var.devops_users
-  dev_qa_users   = var.dev_qa_users
+
 }

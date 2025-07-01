@@ -3,8 +3,7 @@ locals {
     var.manager_users,
     var.dev_users,
     var.qa_users,
-    var.devops_users,
-    var.dev_qa_users
+    var.devops_users
   ))
 }
 
